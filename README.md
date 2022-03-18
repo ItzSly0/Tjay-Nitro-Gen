@@ -1,7 +1,7 @@
 
 Tjay-Nitro-Gen
 
-ByDiego Nitro Gen is a tool for discord. Developed in Python
+ Nitro Gen is a tool for discord. Developed in Python
 
 TO OPEN NITRO GEN PRESS ENTER
 
